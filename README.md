@@ -10,6 +10,8 @@ The project emphasizes **procedural programming, array manipulation, and game lo
 - Randomized deck shuffling
 - Dynamic hand scoring with Ace value adjustment (1 or 11)
 - Player decision handling (hit or stand)
-- Dealer logic following standard Blackjack rules
+- Dealer logic follows standard Blackjack rules
 - Clear console output displaying cards and scores
 
+## Notes
+Completed during Spring 2025. 
